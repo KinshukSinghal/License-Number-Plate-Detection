@@ -37,7 +37,7 @@
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/license-plate-detection.git
+git clone https://github.com/KinshukSinghal/License-Number-Plate-Detection.git
 cd license-plate-detection
 ```
 
