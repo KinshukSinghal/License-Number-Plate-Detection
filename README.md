@@ -29,7 +29,7 @@
 
 | Input Image  | Processed Image | Extracted Text |
 |-------------|---------------|----------------|
-| ![Input](Images/Input.PNG) | ![Processed](https://imgur.com/a/13b5V5E) | **MH12AB1234** |
+| ![Input](Images/Input.PNG) | ![Processed](Images/Processed.PNG) | **MH20EE7602** |
 
 ---
 
